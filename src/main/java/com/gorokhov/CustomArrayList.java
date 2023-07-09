@@ -1,7 +1,7 @@
 package com.gorokhov;
 
 import java.util.*;
-
+// Please check the code
 /**
  * <p>{@code CustomArrayList} is a dynamic array implementation. It can change its size during
  * the execution of the program, while it is not necessary to specify the dimension
